@@ -16,4 +16,4 @@
 <br>
 
 ## QGIS
-- [BAS - Antarctica and Southern Ocean basemap for Desktop GIS] (https://guides.geospatial.bas.ac.uk/using-mapping-data-services/bas-mapping-services/antarctica-and-southern-ocean-basemap-for-desktop-gis#using-the-basemap-in-qgis)
+- [BAS - Antarctica and Southern Ocean basemap for Desktop GIS](https://guides.geospatial.bas.ac.uk/using-mapping-data-services/bas-mapping-services/antarctica-and-southern-ocean-basemap-for-desktop-gis#using-the-basemap-in-qgis)
